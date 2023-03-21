@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'pmzdbtt';
+    src: url('./PangMenZhengDaoBiaoTiTi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.pmzdbtt-font {
+    font-family: 'pmzdbtt';
+    font-weight: normal;
+}

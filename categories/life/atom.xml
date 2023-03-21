@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Lunce - Life</title>
+    <subtitle>Articles written in English while learning English</subtitle>
+    <link href="https://lunce.com/categories/life/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://lunce.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-03-20T00:00:00+00:00</updated>
+    <id>https://lunce.com/categories/life/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Don&#x27;t express your differences in a group</title>
+        <published>2023-03-20T00:00:00+00:00</published>
+        <updated>2023-03-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://lunce.com/dont-express-your-differences-in-a-group/" type="text/html"/>
+        <id>https://lunce.com/dont-express-your-differences-in-a-group/</id>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Never arguing with someone who has no conflict with you&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Never try to express your differences in a group&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I still remember a story in my life. When I was a freshman-year student in university, I found a phenomenon that a most majority of students from Hebei Province pronounce N as &lt;code&gt;&#x2F;ən&#x2F;&lt;&#x2F;code&gt; and pronounce M as &lt;code&gt;&#x2F;en&#x2F;&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Actually, I found it firstly when I attended to the first math lesson. At that time my math teacher did it. And I found a lot of students did so. That was weird. What astonished me more was that my English teacher in college did so. One day, I tried to remedy this strange situation. So, in front of my classmates, I tried to correct their pronounciations that N should be pronounced as &lt;code&gt;&#x2F;en&#x2F;&lt;&#x2F;code&gt;, not &lt;code&gt;&#x2F;ən&#x2F;&lt;&#x2F;code&gt;, and M should be pronounced as &lt;code&gt;&#x2F;em&#x2F;&lt;&#x2F;code&gt;, not &lt;code&gt;&#x2F;en&#x2F;&lt;&#x2F;code&gt;. I tried by best to teach them how to pronounce these two letters correctly. However, The result didn&#x27;t come up to my expectation but badness. They all looked at me with weird eyes, which made me feel uncomfortable. And then a lot of students laughed at me and then they tried to correct me with their wrong pronounciations. As a result, I gave up and I was persuaded to do as same as them, though I disdained.&lt;&#x2F;p&gt;
+&lt;p&gt;What I went through taught me a lesson that &lt;strong&gt;Never ever ever argue with someone who has no conflict with you&lt;&#x2F;strong&gt; and the importance is &lt;strong&gt;never try to express your differences in a group&lt;&#x2F;strong&gt;, or you will get your ass kicked.&lt;&#x2F;p&gt;
+</content>
+    </entry>
+</feed>
